@@ -57,21 +57,21 @@ Enter the key (numeric): 3
 ## Example
 ### Input File: `example.txt`
 ```
-Hello World!
+S1B34 is the best
 ```
 
 ### Encrypt:
 - Key: `3`
 - Output File Content:
 ```
-Khoor#Zruog$
+V4E67#lv#wkh#ehvw
 ```
 
 ### Decrypt:
 - Key: `3`
 - Output File Content:
 ```
-Hello World!
+S1B34 is the best
 ```
 
 ---
